@@ -15,5 +15,8 @@ Raby, Rebecca. "Polite, Well-dressed and on Time: Secondary School Conduct Codes
 ## How to study? 
 In order to begin answering the research question, I want to look at what types of clothing or accessories are banned or other restrictions within dress codes. Additionally, I would want to focus on which gendered items are banned more often and students who have more dress code violations within school (for example, if girls have more violations/more severe punishments then boys). Finally, information that looks at students and school staff members attitudes towards dress codes.
 
+## Tools and Methods Required
+For this project, I think data visualization of graphs and charts that are color coded with regards to gender would be a good way to present data found. Statistical analysis could also be useful. 
+
 ### Proposed Dataset 
 So far, I have found one dataset that relates to my topic-- it includes names of USA high schools and lists clothing and accessories that have been banned by the school. I have included the data in this repository. Source Link: https://www.kaggle.com/datasets/thedevastator/dress-code-regulations-in-us-high-schools 
