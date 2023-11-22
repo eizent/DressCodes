@@ -21,3 +21,4 @@ For this project, I think data visualization of graphs and charts that are color
 ### Proposed Dataset 
 So far, I have found one dataset that relates to my topic-- it includes names of USA high schools and lists clothing and accessories that have been banned by the school. I have included the data in this repository. Source Link: https://www.kaggle.com/datasets/thedevastator/dress-code-regulations-in-us-high-schools 
 https://data.world/the-pudding/dress-codes
+https://pudding.cool/2019/02/dress-code-sexualization/
